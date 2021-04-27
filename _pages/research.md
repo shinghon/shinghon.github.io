@@ -13,4 +13,4 @@ With [Courtney Fung](https://www.courtneyfung.com/). Does China exert influence 
 - Presented at *[APSA 2020](https://convention2.allacademic.com/one/apsa/apsa20/index.php?cmd=Online+Program+View+Session&selected_session_id=1639303&PHPSESSID=c63f4am07b06i4748aec419dii)*
 - *The Washington Post, Monkey Cage*, ["China already leads 4 of the 15 U.N. specialized agencies — and is aiming for a 5th,"](https://www.washingtonpost.com/politics/2020/03/03/china-already-leads-4-15-un-specialized-agencies-is-aiming-5th/) March 2020
 - Mentioned in *Foreign Policy*, ["China’s Soft-Power Grab,"](https://foreignpolicy.com/2020/08/14/china-soft-power-united-nations-hong-kong-crackdown/) August 2020
-- Related paper: "Executive leadership and state influence: The case of China in the United Nations system," revise and resubmit at the *International Affairs*.
+- Related paper: "Executive leadership and state influence: The case of China in the United Nations system," Accepted at the *International Affairs*.
