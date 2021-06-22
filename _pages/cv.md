@@ -6,4 +6,4 @@ author_profile: true
 redirect_from:
   - /resume
 ---
-My CV can be downloaded [here](http://shinghon.github.io/files/CV_Shing_Hon_27APR2021_Short.pdf).
+My CV can be downloaded [here](http://shinghon.github.io/files/CV_Shing_Hon_22JUN2021_Short.pdf).
