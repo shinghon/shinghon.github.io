@@ -7,5 +7,5 @@ redirect_from:
   - /travelling
 ---
 <img class="fit-picture"
-     src="/images/_DSC3704.jpg"
+     src="/images/DSC3704.jpg"
      alt="Melbourne, 2013">
