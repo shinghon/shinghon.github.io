@@ -31,6 +31,12 @@ Zermatt, 2014
      alt="Zermatt, 2015">
      
 
+Cinque Terre, 2014
+<img class="fit-picture"
+     src="/images/DSC6531.jpg"
+     alt="Cinque Terre, 2014, 2015">
+     
+
 Gunung Bromo, 2014
 <img class="fit-picture"
      src="/images/DSC6861.jpg"
@@ -73,6 +79,12 @@ Landmannalaugar, 2015
      alt="Landmannalaugar, 2016">
 
 
+Cesky Krumlov, 2016
+<img class="fit-picture"
+     src="/images/DSC9571.jpg"
+     alt="Cesky Krumlov, 2016">
+  
+ 
 Hallstatt, 2016
 <img class="fit-picture"
      src="/images/DSC9991.jpg"
