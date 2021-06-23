@@ -6,7 +6,7 @@ excerpt: 'With [Courtney Fung](https://www.courtneyfung.com/). This paper is abo
 date: 2021-06-17
 venue: 'International Affairs'
 paperurl: 'http://academicpages.github.io/files/paper2.pdf'
-citation: 'Fung, Courtney J., and Shing-hon Lam. 2021. &quot; Staffing the United Nations: China's motivations and prospects.&quot; <i>Journal 1</i>. 97(4).'
+citation: 'Fung, Courtney J., and Shing-hon Lam. 2021. &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
 ---
 This paper is about Hello. The number 3 is left for future work.
 
