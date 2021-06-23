@@ -2,7 +2,7 @@
 title: "Staffing the United Nations: China's Motivations and Prospects"
 collection:
 permalink: /publication/2021-06-17-IA
-excerpt: 'This paper is about testing. The number 3 is left for future work. A developing public commentary views China as exerting influence in international organizations to legitimize and disseminate PRC foreign policy values and interests.'
+excerpt: 'With [Courtney Fung](https://www.courtneyfung.com/). This paper is about testing. The number 3 is left for future work. A developing public commentary views China as exerting influence in international organizations to legitimize and disseminate PRC foreign policy values and interests.'
 date: 2021-06-17
 venue: 'International Affairs'
 paperurl: 'http://academicpages.github.io/files/paper2.pdf'
