@@ -81,7 +81,7 @@ Landmannalaugar, 2015
 
 Cesky Krumlov, 2016
 <img class="fit-picture"
-     src="/images/DSC9571.jpg"
+     src="/images/DSC9751.jpg"
      alt="Cesky Krumlov, 2016">
   
  
