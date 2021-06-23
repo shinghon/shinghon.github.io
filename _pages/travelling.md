@@ -15,7 +15,7 @@ Melbourne, 2013
      
 Siem Reap, 2014
 <img class="fit-picture"
-     src="/images/DSC4980.jpg"
+     src="/images/DSC5206.jpg"
      alt="Siem Reap, 2014">
      
 
@@ -105,7 +105,7 @@ Jerusalem, 2016
   
 Petra, 2017 
 <img class="fit-picture"
-     src="/images/DSC1155.jpg"
+     src="/images/DSC1195.jpg"
      alt="Petra, 2017">
   
 
