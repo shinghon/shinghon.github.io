@@ -267,7 +267,7 @@
 
       &:hover {
         color: $masthead-link-color-hover;
-        background: mix(#fff, $primary-color, 75%);
+        background: #1885b9;
       }
     }
 
@@ -382,7 +382,7 @@
   .nav__title {
     color: #fff;
     font-size: $type-size-6;
-    background: $primary-color;
+    background: #1885b9;
     border-top-left-radius: $border-radius;
     border-top-right-radius: $border-radius;
   }
