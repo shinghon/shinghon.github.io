@@ -89,7 +89,7 @@ author:
   googlescholar    : "https://scholar.google.com/citations?user=sSSzNloAAAAJ&hl=en&authuser=3"
   email            : "shinghon@ucla.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
-  uri              :
+  uri              : 
   bitbucket        :
   codepen          :
   dribbble         :
@@ -115,6 +115,7 @@ author:
   xing             :
   youtube          :
   wikipedia        :
+  strava           : "https://www.strava.com/athletes/74309136"
 
 
 # Reading Files
