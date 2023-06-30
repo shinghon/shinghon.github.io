@@ -154,4 +154,16 @@ Erguna, Jan 2018
 Hulun Lake, Jan 2018
 <img class="fit-picture"
      src="/images/DSC2506.jpg"
-     alt="Hulun Lake, 2017">  
+     alt="Hulun Lake, 2017">    
+
+  
+Cucamonga Wilderness, Aug 2022
+<img class="fit-picture"
+     src="/images/IMG_5561.jpg"
+     alt="Cucamonga Wilderness, 2022">    
+
+  
+Malibu, May 2023
+<img class="fit-picture"
+     src="/images/IMG_7877.jpg"
+     alt="Malibu, 2023">  
