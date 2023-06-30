@@ -163,6 +163,12 @@ Cucamonga Wilderness, Aug 2022
      alt="Cucamonga Wilderness, 2022">    
 
   
+Biei, Jan 2023
+<img class="fit-picture"
+     src="/images/IMG_6791.jpg"
+     alt="Biei, 2023">    
+
+  
 Malibu, May 2023
 <img class="fit-picture"
      src="/images/IMG_7877.jpg"
