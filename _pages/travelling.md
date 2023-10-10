@@ -183,7 +183,7 @@ Lower Antelope Canyon, Aug 2023
   
 Machu Picchu, Sept 2023
 <img class="fit-picture"
-     src="[/images/DSC2625.jpeg](https://github.com/shinghon/shinghon.github.io/blob/66a0cfca25e12b4f01ae0082d3896cf94d1f0e18/images/DSC2625.jpeg)"
+     src="/images/DSC2625.jpg"
      alt="Machu Picchu, 2023">  
 
   
