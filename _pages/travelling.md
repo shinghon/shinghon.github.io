@@ -177,7 +177,7 @@ Malibu, May 2023
   
 Lower Antelope Canyon, Aug 2023
 <img class="fit-picture"
-     src="/images/_DSC2593.jpeg"
+     src="/images/DSC2593.jpg"
      alt="Lower Antelope Canyon, 2023">  
 
   
@@ -189,17 +189,17 @@ Machu Picchu, Sept 2023
   
 Palomani Pass, Sept 2023
 <img class="fit-picture"
-     src="/images/_DSC2827.jpeg"
+     src="/images/DSC2827.jpg"
      alt="Palomani Pass, 2023">  
 
   
 Ausangatecocha, May 2023
 <img class="fit-picture"
-     src="/images/_DSC2735.jpeg"
+     src="/images/DSC2735.jpg"
      alt="Ausangatecocha, 2023">
 
   
 Jampa Pass, Sept 2023
 <img class="fit-picture"
-     src="/images/_DSC3017.jpeg"
-     alt="Ausangatecocha, 2023">  
+     src="/images/DSC3017.jpg"
+     alt="Jampa Pass, 2023">  
