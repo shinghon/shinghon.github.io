@@ -13,20 +13,32 @@ redirect_from:
     display: flex;
     justify-content: space-between;
     align-items: flex-start;
+    margin-top: 0; /* Remove any unintended top margin */
+    padding-top: 0; /* Remove extra padding */
   }
-  
+
   .content {
     flex: 2; /* Main content takes up more space */
+    margin-top: 0; /* Ensure no extra top space */
+    padding-top: 0;
   }
-  
+
   .sidebar {
     flex: 1; /* Sidebar takes up less space */
     margin-left: 20px; /* Add spacing between the content and sidebar */
+    margin-top: 0; /* Ensure sidebar aligns properly */
+    padding-top: 0;
   }
 
   .sidebar iframe {
     display: block;
     margin-bottom: 10px; /* Adds spacing between iframes */
+  }
+
+  /* Reset margin/padding for body and container */
+  body, html {
+    margin: 0;
+    padding: 0;
   }
 
   /* Responsive Design */
@@ -49,10 +61,10 @@ redirect_from:
   </div>
 
   <div class="sidebar">
-    <iframe height="454" width="300" frameborder='0' allowtransparency='true' scrolling='yes' 
+    <iframe height="454" width="350" frameborder='0' allowtransparency='true' scrolling='yes' 
             src='https://www.strava.com/athletes/74309136/latest-rides/95f0d6ad23cf1c5409b240d3330509fb9b90feab'></iframe>
     
-    <iframe height="160" width="300" frameborder='0' allowtransparency='true' scrolling='no' 
+    <iframe height="160" width="350" frameborder='0' allowtransparency='true' scrolling='no' 
             src='https://www.strava.com/athletes/74309136/activity-summary/95f0d6ad23cf1c5409b240d3330509fb9b90feab'></iframe>
   </div>
 </div>
