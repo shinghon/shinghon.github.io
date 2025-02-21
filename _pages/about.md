@@ -8,9 +8,51 @@ redirect_from:
   - /about.html
 ---
 
-Welcome! I am a PhD candidate in the Department of Political Science at the University of California, Los Angeles, where I specialise in International Relations. I earned my [MA](https://cir.uchicago.edu/) in International Relations from the University of Chicago and [BSocSc](https://ppaweb.hku.hk/) in Politics and Public Administration from the University of Hong Kong.
+<style>
+  .container {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+  }
+  
+  .content {
+    flex: 2; /* Main content takes up more space */
+  }
+  
+  .sidebar {
+    flex: 1; /* Sidebar takes up less space */
+    margin-left: 20px; /* Add spacing between the content and sidebar */
+  }
 
-My [upcoming research](http://shinghon.github.io/research) explores the influence of member states in international organisations, with focus on China using computational text analysis. I have [published](http://shinghon.github.io/publications) in the *International Affairs*, *Journal of Global Security Studies* and written in *The Washington Post*. Prior to PhD, I interned at ALPHA Toronto, an Indonesian fair trade [co-op](https://therainforestcoffee.wordpress.com/), East Asian Institute NUS and UNDP China.
+  .sidebar iframe {
+    display: block;
+    margin-bottom: 10px; /* Adds spacing between iframes */
+  }
 
-<iframe height="454" width="300" frameborder='0' allowtransparency='true' scrolling='yes' src='https://www.strava.com/athletes/74309136/latest-rides/95f0d6ad23cf1c5409b240d3330509fb9b90feab'></iframe>
-<iframe height="160" width="300" frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/athletes/74309136/activity-summary/95f0d6ad23cf1c5409b240d3330509fb9b90feab'></iframe>
+  /* Responsive Design */
+  @media (max-width: 768px) {
+    .container {
+      flex-direction: column;
+    }
+    .sidebar {
+      margin-left: 0;
+      margin-top: 20px; /* Stack sidebar below content on small screens */
+    }
+  }
+</style>
+
+<div class="container">
+  <div class="content">
+    <p>Welcome! I am a PhD candidate in the Department of Political Science at the University of California, Los Angeles, where I specialise in International Relations. I earned my <a href="https://cir.uchicago.edu/">MA</a> in International Relations from the University of Chicago and <a href="https://ppaweb.hku.hk/">BSocSc</a> in Politics and Public Administration from the University of Hong Kong.</p>
+
+    <p>My <a href="http://shinghon.github.io/research">upcoming research</a> explores the influence of member states in international organisations, with focus on China using computational text analysis. I have <a href="http://shinghon.github.io/publications">published</a> in <i>International Affairs</i>, <i>Journal of Global Security Studies</i>, and written in <i>The Washington Post</i>. Prior to PhD, I interned at ALPHA Toronto, an Indonesian fair trade <a href="https://therainforestcoffee.wordpress.com/">co-op</a>, East Asian Institute NUS, and UNDP China.</p>
+  </div>
+
+  <div class="sidebar">
+    <iframe height="454" width="300" frameborder='0' allowtransparency='true' scrolling='yes' 
+            src='https://www.strava.com/athletes/74309136/latest-rides/95f0d6ad23cf1c5409b240d3330509fb9b90feab'></iframe>
+    
+    <iframe height="160" width="300" frameborder='0' allowtransparency='true' scrolling='no' 
+            src='https://www.strava.com/athletes/74309136/activity-summary/95f0d6ad23cf1c5409b240d3330509fb9b90feab'></iframe>
+  </div>
+</div>
