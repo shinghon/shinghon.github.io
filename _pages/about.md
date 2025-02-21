@@ -12,4 +12,4 @@ Welcome! I am a PhD candidate in the Department of Political Science at the Univ
 
 My [upcoming research](http://shinghon.github.io/research) explores the influence of member states in international organisations, with focus on China using computational text analysis. I have [published](http://shinghon.github.io/publications) in the *International Affairs*, *Journal of Global Security Studies* and written in *The Washington Post*. Prior to PhD, I interned at ALPHA Toronto, an Indonesian fair trade [co-op](https://therainforestcoffee.wordpress.com/), East Asian Institute NUS and UNDP China.
 
-<iframe height='454' width='300' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/athletes/74309136/latest-rides/95f0d6ad23cf1c5409b240d3330509fb9b90feab'></iframe>
+<iframe height="454" width="300" frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/athletes/74309136/latest-rides/95f0d6ad23cf1c5409b240d3330509fb9b90feab'></iframe>
