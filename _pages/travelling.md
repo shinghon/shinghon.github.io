@@ -203,3 +203,67 @@ Jampa Pass, Sept 2023
 <img class="fit-picture"
      src="/images/DSC3017.jpg"
      alt="Jampa Pass, 2023">  
+
+  
+Clouds Rest, May 2024
+<img class="fit-picture"
+     src="/images/IMG_0725.jpeg"
+     alt="Clouds Rest, May 2024">  
+
+  
+Carlsbad, April 2025 
+<img class="fit-picture"
+     src="/images/IMG_5008.jpeg"
+     alt="Carlsbad, April 2025">  
+  
+Mt Wilson, June 2025 
+<img class="fit-picture"
+     src="/images/IMG_6047.jpeg"
+     alt="">  
+  
+Redbox Canyon, Aug 2025 
+<img class="fit-picture"
+     src="/images/IMG_6797.jpeg"
+     alt="">  
+  
+Mammoth Lakes, Sep 2025 
+<img class="fit-picture"
+     src="/images/IMG_7417.jpeg"
+     alt="">  
+  
+Val di Funes, Jan 2026 
+<img class="fit-picture"
+     src="/images/IMG_8631.jpeg"
+     alt="">  
+  
+Seceda, Jan 2026 
+<img class="fit-picture"
+     src="/images/IMG_8735.jpeg"
+     alt="">  
+  
+Braies, Jan 2026 
+<img class="fit-picture"
+     src="/images/IMG_8888.jpeg"
+     alt="">  
+  
+Braies, Jan 2026 
+<img class="fit-picture"
+     src="/images/IMG_8890.jpeg"
+     alt="">  
+
+  
+Innsbruck, Apr 2026 
+<img class="fit-picture"
+     src="/images/IMG_0760.jpeg"
+     alt="">  
+  
+Axamer Lizum, Apr 2026 
+<img class="fit-picture"
+     src="/images/IMG_0934.jpeg"
+     alt="">  
+
+  
+Mt Hood, Apr 2026 
+<img class="fit-picture"
+     src="/images/IMG_1432.jpeg"
+     alt="">  
