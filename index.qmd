@@ -1,6 +1,6 @@
 ---
 title: "Shing Hon Lam"
-subtitle: "Early Career Research Fellow, Nanyang Technological University"
+subtitle: "Early Career Fellow, Nanyang Technological University"
 image: images/headshot.jpg
 page-layout: full
 toc: false
@@ -33,7 +33,7 @@ My recent research extends these questions to China's diplomacy and to artificia
 
 ## Employment
 
-- Early Career Research Fellow, College of Humanities, Arts and Social Sciences, Nanyang Technological University, 2026–2029
+- Early Career Fellow, College of Humanities, Arts and Social Sciences, Nanyang Technological University, 2026–2029
 - Graduate Student Researcher, Center for Effective Global Action, UC Berkeley, 2025–2026
 - Research Specialist, Department of Politics, Princeton University, 2024–2025
 
