@@ -1,5 +1,8 @@
 ---
 title: "CV"
+aliases:
+  - /cv/
+  - /resume/
 ---
 
 [Download my CV (PDF)](https://drive.google.com/file/d/1hRsfzjzFEKr5CcgHhpZqMVA4BmcSMVuJ/view)

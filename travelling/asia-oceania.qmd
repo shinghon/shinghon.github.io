@@ -1,6 +1,7 @@
 ---
 title: "Travelling: Asia & Oceania"
 aliases:
+  - /travelling/
   - /travelling.html
 ---
 

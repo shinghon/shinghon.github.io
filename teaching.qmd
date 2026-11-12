@@ -1,5 +1,7 @@
 ---
 title: "Teaching"
+aliases:
+  - /teaching/
 ---
 
 ## University of California, Los Angeles

@@ -2,6 +2,7 @@
 title: "Working Papers"
 aliases:
   - /research.html
+  - /research/
 toc: false
 ---
 

@@ -20,6 +20,9 @@ about:
     - icon: twitter-x
       text: X
       href: https://x.com/shinghonlam
+aliases:
+  - /about/
+  - /about.html
 ---
 
 :::{#hero}
