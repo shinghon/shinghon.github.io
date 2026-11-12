@@ -2,3 +2,6 @@ _site/
 .DS_Store
 /.quarto/
 .claude/
+# iCloud sync-conflict copies
+* 2.*
+* 2
