@@ -22,3 +22,9 @@ main img { max-width: 100%; height: auto; }
   border-left: 3px solid #2780e3; border-radius: 4px; font-size: 0.93rem; }
 .pub-collapse.show { display: block; }
 .pub-collapse p:last-child, .pub-collapse ul { margin-bottom: 0; }
+
+/* keep citation badges on the same line as the reference */
+.__dimensions_badge_embed__, span.altmetric-embed[data-doi] {
+  display: inline-block !important; vertical-align: middle; margin-left: 0.35rem; line-height: 1;
+}
+.__dimensions_badge_embed__ > * { display: inline-block; vertical-align: middle; }
