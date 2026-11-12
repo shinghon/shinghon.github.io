@@ -1,5 +1,5 @@
 ---
-title: "Shing Hon Lam"
+title: "Shing-hon Lam"
 subtitle: "Early Career Fellow, Nanyang Technological University"
 image: images/headshot.jpg
 page-layout: full
