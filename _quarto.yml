@@ -43,9 +43,7 @@ website:
 
 format:
   html:
-    theme:
-      light: cosmo
-      dark: darkly
+    theme: cosmo
     css: styles.css
     toc: false
     link-external-newwindow: true
@@ -53,22 +51,3 @@ format:
     include-in-header:
       text: |
         <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/jpswalsh/academicons@1/css/academicons.min.css">
-        <script>
-        /* Auto dark mode: dark from 7pm to 7am local time, or when the device is set to dark.
-           A click on the toggle overrides this for 12 hours. Runs before Quarto reads its setting. */
-        (function () {
-          try {
-            var until = +localStorage.getItem("shl-manual-until") || 0;
-            if (Date.now() >= until) {
-              var h = new Date().getHours();
-              var dark = h >= 19 || h < 7 ||
-                (window.matchMedia && window.matchMedia("(prefers-color-scheme: dark)").matches);
-              localStorage.setItem("quarto-color-scheme", dark ? "alternate" : "default");
-            }
-            document.addEventListener("click", function (e) {
-              if (e.target.closest && e.target.closest(".quarto-color-scheme-toggle"))
-                localStorage.setItem("shl-manual-until", String(Date.now() + 12 * 3600 * 1000));
-            }, true);
-          } catch (err) {}
-        })();
-        </script>

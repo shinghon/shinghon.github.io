@@ -28,10 +28,3 @@ main img { max-width: 100%; height: auto; }
   display: inline-block !important; vertical-align: middle; margin-left: 0.35rem; line-height: 1;
 }
 .__dimensions_badge_embed__ > * { display: inline-block; vertical-align: middle; }
-
-/* dark mode adjustments */
-body.quarto-dark .pub-entry { border-bottom-color: #444; }
-body.quarto-dark .pub-authors, body.quarto-dark .pub-status { color: #b8bec6; }
-body.quarto-dark .btn-pill { border-color: #555; color: #cfd4da; }
-body.quarto-dark .btn-pill.btn-outline:hover, body.quarto-dark .btn-pill.btn-outline.active { border-color: #6ea8fe; color: #6ea8fe; }
-body.quarto-dark .pub-collapse { background: #2a2d31; border-left-color: #6ea8fe; }
