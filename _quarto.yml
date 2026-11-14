@@ -10,7 +10,7 @@ website:
   site-url: "https://shinghon.github.io"
   open-graph: true
   navbar:
-    background: "#fafdff"
+    background: "#f8fcff"
     foreground: "#1f2d3d"
     left:
       - text: Research
