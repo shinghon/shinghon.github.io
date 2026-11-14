@@ -1,0 +1,30 @@
+/* css styles */
+
+/* site tweaks */
+.quarto-about-trestles .about-entity .about-link { font-size: 0.9rem; }
+main img { max-width: 100%; height: auto; }
+
+/* research page: pill buttons + collapsible panels (after sbryngelson/academic-website-template) */
+.pub-entry { padding: 1.1rem 0; border-bottom: 1px solid #e5e7eb; }
+.pub-entry:last-child { border-bottom: none; }
+.pub-title { font-weight: 600; font-size: 1.05rem; line-height: 1.4; }
+.pub-authors { font-size: 0.95rem; color: #4b5563; margin-top: 0.2rem; }
+.pub-status { font-style: italic; color: #6b7280; }
+.pub-actions { display: flex; flex-wrap: wrap; gap: 0.4rem; margin-top: 0.6rem; }
+.btn-pill { display: inline-block; padding: 0.2rem 0.85rem; font-size: 0.72rem; font-weight: 600;
+  border-radius: 999px; border: 1px solid #d1d5db; background: transparent; color: #4b5563;
+  text-transform: uppercase; letter-spacing: 0.04em; line-height: 1.6; cursor: pointer; text-decoration: none; }
+.btn-pill.btn-outline:hover, .btn-pill.btn-outline.active { border-color: #2780e3; color: #2780e3; }
+.btn-pill.btn-ssrn { background: #0b3d91; border-color: #0b3d91; color: #fff; }
+.btn-pill.btn-ssrn:hover { background: #082c69; color: #fff; }
+.btn-pill.btn-solid { background: #2780e3; border-color: #2780e3; color: #fff; }
+.pub-collapse { display: none; margin-top: 0.7rem; padding: 0.8rem 1rem; background: #f8f9fa;
+  border-left: 3px solid #2780e3; border-radius: 4px; font-size: 0.93rem; }
+.pub-collapse.show { display: block; }
+.pub-collapse p:last-child, .pub-collapse ul { margin-bottom: 0; }
+
+/* keep citation badges on the same line as the reference */
+.__dimensions_badge_embed__, span.altmetric-embed[data-doi] {
+  display: inline-block !important; vertical-align: middle; margin-left: 0.35rem; line-height: 1;
+}
+.__dimensions_badge_embed__ > * { display: inline-block; vertical-align: middle; }

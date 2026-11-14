@@ -1,0 +1,54 @@
+project:
+  type: website
+  output-dir: docs
+  render:
+    - "*.qmd"
+
+website:
+  title: "Shing-hon Lam"
+  description: "Shing-hon Lam: international organisations, China, AI and global politics, international political economy"
+  site-url: "https://shinghon.github.io"
+  open-graph: true
+  navbar:
+    background: "#f8fcff"
+    foreground: "#1f2d3d"
+    left:
+      - text: Research
+        menu:
+          - text: Publications
+            href: publications.qmd
+          - text: Working Papers
+            href: working-papers.qmd
+      - text: Teaching
+        href: teaching.qmd
+      - text: CV
+        href: cv.qmd
+      - text: Travelling
+        menu:
+          - text: Asia & Oceania
+            href: travelling/asia-oceania.qmd
+          - text: Europe & the Middle East
+            href: travelling/europe-middle-east.qmd
+          - text: The Americas
+            href: travelling/americas.qmd
+    right:
+      - text: "{{< ai google-scholar >}}"
+        href: https://scholar.google.com/citations?user=sSSzNloAAAAJ
+        target: _blank
+      - text: "{{< ai orcid >}}"
+        href: https://orcid.org/0000-0003-1063-5555
+        target: _blank
+  page-footer:
+    left: "Shing-hon Lam &copy; 2026"
+    right: "Built with [Quarto](https://quarto.org) using the [Quarto Academic template](https://github.com/drganghe/quarto-academic-website-template)"
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: false
+    link-external-newwindow: true
+    email-obfuscation: javascript
+    include-in-header:
+      text: |
+        <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/jpswalsh/academicons@1/css/academicons.min.css">
