@@ -52,3 +52,6 @@ format:
     include-in-header:
       text: |
         <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/jpswalsh/academicons@1/css/academicons.min.css">
+    include-after-body:
+      text: |
+        <script data-goatcounter="https://shinghon.goatcounter.com/count" async src="//gc.zgo.at/count.js"></script>
