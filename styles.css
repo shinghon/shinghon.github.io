@@ -3,6 +3,8 @@
 /* site tweaks */
 .quarto-about-trestles .about-entity .about-link { font-size: 0.9rem; }
 main img { max-width: 100%; height: auto; }
+/* move the avatar | text divider left (template default: 42%) */
+@media (min-width: 992px) { body div.quarto-about-trestles .about-entity { flex: 0 0 36%; } }
 
 /* research page: pill buttons + collapsible panels (after sbryngelson/academic-website-template) */
 .pub-entry { padding: 1.1rem 0; border-bottom: 1px solid #e5e7eb; }
