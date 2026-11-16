@@ -16,12 +16,13 @@ main img { max-width: 100%; height: auto; }
 .btn-pill { display: inline-block; padding: 0.2rem 0.85rem; font-size: 0.72rem; font-weight: 600;
   border-radius: 999px; border: 1px solid #d1d5db; background: transparent; color: #4b5563;
   text-transform: uppercase; letter-spacing: 0.04em; line-height: 1.6; cursor: pointer; text-decoration: none; }
-.btn-pill.btn-outline:hover, .btn-pill.btn-outline.active { border-color: #2780e3; color: #2780e3; }
+.btn-pill.btn-outline:hover, .btn-pill.btn-outline.active { border-color: #0abab5; color: #0abab5; }
 .btn-pill.btn-ssrn { background: #0b3d91; border-color: #0b3d91; color: #fff; }
 .btn-pill.btn-ssrn:hover { background: #082c69; color: #fff; }
-.btn-pill.btn-solid { background: #2780e3; border-color: #2780e3; color: #fff; }
+.btn-pill.btn-solid { background: #0abab5; border-color: #0abab5; color: #fff; }
+.btn-pill.btn-solid:hover { background: #08847f; border-color: #08847f; color: #fff; }
 .pub-collapse { display: none; margin-top: 0.7rem; padding: 0.8rem 1rem; background: #f8f9fa;
-  border-left: 3px solid #2780e3; border-radius: 4px; font-size: 0.93rem; }
+  border-left: 3px solid #0abab5; border-radius: 4px; font-size: 0.93rem; }
 .pub-collapse.show { display: block; }
 .pub-collapse p:last-child, .pub-collapse ul { margin-bottom: 0; }
 
@@ -30,3 +31,16 @@ main img { max-width: 100%; height: auto; }
   display: inline-block !important; vertical-align: middle; margin-left: 0.35rem; line-height: 1;
 }
 .__dimensions_badge_embed__ > * { display: inline-block; vertical-align: middle; }
+
+/* link colour: Tiffany blue (#0ABAB5), darker #08847F on hover */
+:root {
+  --bs-link-color: #0abab5; --bs-link-color-rgb: 10, 186, 181;
+  --bs-link-hover-color: #08847f; --bs-link-hover-color-rgb: 8, 132, 127;
+}
+
+/* navbar hover matches link colour */
+body .navbar.navbar-expand-lg { --bs-navbar-hover-color: #0abab5; --bs-navbar-brand-hover-color: #0abab5; --bs-nav-link-hover-color: #0abab5; }
+body .navbar .navbar-nav .nav-link:hover, body .navbar .navbar-nav .nav-link:focus-visible,
+body .navbar .navbar-brand:hover,
+body .navbar .quarto-navbar-tools .quarto-navigation-tool:hover,
+body .navbar .dropdown-item:hover, body .navbar .dropdown-item:focus-visible { color: #0abab5 !important; }
