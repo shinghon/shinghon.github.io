@@ -17,8 +17,8 @@ main img { max-width: 100%; height: auto; }
   border-radius: 999px; border: 1px solid #d1d5db; background: transparent; color: #4b5563;
   text-transform: uppercase; letter-spacing: 0.04em; line-height: 1.6; cursor: pointer; text-decoration: none; }
 .btn-pill.btn-outline:hover, .btn-pill.btn-outline.active { border-color: #0abab5; color: #0abab5; }
-.btn-pill.btn-ssrn { background: #0b3d91; border-color: #0b3d91; color: #fff; }
-.btn-pill.btn-ssrn:hover { background: #082c69; color: #fff; }
+.btn-pill.btn-ssrn { background: #0abab5; border-color: #0abab5; color: #fff; }
+.btn-pill.btn-ssrn:hover { background: #08847f; border-color: #08847f; color: #fff; }
 .btn-pill.btn-solid { background: #0abab5; border-color: #0abab5; color: #fff; }
 .btn-pill.btn-solid:hover { background: #08847f; border-color: #08847f; color: #fff; }
 .pub-collapse { display: none; margin-top: 0.7rem; padding: 0.8rem 1rem; background: #f8f9fa;
